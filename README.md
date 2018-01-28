@@ -22,3 +22,8 @@ I have also included the apk file here.
 ![img1](https://user-images.githubusercontent.com/11765482/35486027-278019a2-0490-11e8-8d93-4b211caf392e.PNG)
 
 ![img3](https://user-images.githubusercontent.com/11765482/35486028-290e56da-0490-11e8-9cc6-076246c8a76d.PNG)
+
+
+# Simple sample arduino code
+
+![arduinoprogram](https://user-images.githubusercontent.com/11765482/35486066-a99febba-0490-11e8-84f8-24b45bc6c3cd.PNG)
