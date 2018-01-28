@@ -15,3 +15,10 @@ I have also included the apk file here.
 ![screenshot_2018-01-29-00-44-48](https://user-images.githubusercontent.com/11765482/35485987-84a64184-048f-11e8-83e7-49ea9159b3f2.jpeg)
 
 ![screenshot_2018-01-29-00-46-58](https://user-images.githubusercontent.com/11765482/35485988-86089edc-048f-11e8-97c0-6a32e67cf856.jpeg)
+
+
+## How Arduino Receives the instructions
+
+![img1](https://user-images.githubusercontent.com/11765482/35486027-278019a2-0490-11e8-8d93-4b211caf392e.PNG)
+
+![img3](https://user-images.githubusercontent.com/11765482/35486028-290e56da-0490-11e8-9cc6-076246c8a76d.PNG)
