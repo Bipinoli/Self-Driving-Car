@@ -27,3 +27,10 @@ via arduino bluetooth module.
 # Simple sample arduino code
 
 ![arduinoprogram](https://user-images.githubusercontent.com/11765482/35486066-a99febba-0490-11e8-84f8-24b45bc6c3cd.PNG)
+
+
+
+### Authors
+- Bipin Oli bipinoli90@gmail.com
+- Aayush Gautam agautam1997@gmail.com
+- Kuldip Bhutoria 072bct518@pcampus.edu.np
