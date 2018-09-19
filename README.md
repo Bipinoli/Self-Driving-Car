@@ -33,4 +33,4 @@ via arduino bluetooth module.
 ### Authors
 - Bipin Oli bipinoli90@gmail.com
 - Aayush Gautam agautam1997@gmail.com
-- Kuldip Bhutoria 072bct518@pcampus.edu.np
+- Kuldip Bhutoria bhutoriakuldip1998@gmail.com
